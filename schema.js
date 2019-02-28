@@ -1,4 +1,4 @@
-var mongoose = requiere("mongoose");
+var mongoose = require("mongoose");
 
 module.exports = new mongoose.Schema(
     {
